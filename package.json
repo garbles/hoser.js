@@ -1,6 +1,6 @@
 {
   "name": "hoser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hoser.js is a small JavaScript library (< 4kb minified) for creating observable data objects whose attributes can be lexically scoped.",
   "main": "dist/hoser.js",
   "scripts": {
@@ -10,9 +10,7 @@
   "keywords": [],
   "author": "Gabe Scholz",
   "license": "MIT",
-  "dependencies": {
-    "component-emitter": "^1.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffee-loader": "^0.7.2",
     "coffee-script": "^1.9.1",
