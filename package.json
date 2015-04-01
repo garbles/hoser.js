@@ -1,6 +1,6 @@
 {
   "name": "hoser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Hoser.js is a small JavaScript library (< 4kb minified) for creating observable data objects whose attributes can be lexically scoped.",
   "main": "dist/hoser.js",
   "scripts": {
